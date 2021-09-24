@@ -1,10 +1,9 @@
-### Hi there 👋
-
-- 🔭 Currently working on **something new** 
-- 🌱 Always learning **something cool**
-- 👩‍🎓 A student of **Software Engineering at Ecole 42**
-- ⚡ Also interested in **Mobile App Development, Blockchain, AI, NFT**
-- 😄 Pronouns **she/her**
+## Hi there 👋
+🔭 Currently working on **something new** <br>
+🌱 Always learning **something cool** <br>
+👩‍🎓 A student of **Software Engineering at Ecole 42** <br>
+⚡ Also interested in **Mobile App Development, Blockchain, AI, NFT** <br>
+😄 Pronouns **she/her**
 
 <p align="left">
 <a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-221C36?style=for-the-badge&logo=linkedin&logoColor=white"/>
