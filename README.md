@@ -1,16 +1,16 @@
 ## Hi there 👋
+
 🔭 Currently working on **something new** <br>
 🌱 Always learning **something cool** <br>
 👩‍🎓 A student of **Software Engineering at Ecole 42** <br>
 ⚡ Also interested in **Mobile App Development, Blockchain, AI, NFT** <br>
-😄 Pronouns **she/her**
+😄 Pronouns **she/her** <br> 
 
 <p align="left">
 <a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-221C36?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/ProtonMail-221C36?style=for-the-badge&logo=protonmail&logoColor=white"/>
 <a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/Telegram-221C36?style=for-the-badge&logo=telegram&logoColor=white%22/%3E"/>
-</p> 
-<p align="left"> 
+<br>
 <img src="https://img.shields.io/badge/C-221C36?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-221C36?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-221C36?style=for-the-badge&logo=html5&logoColor=ab3f27"/></a>
