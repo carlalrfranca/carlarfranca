@@ -4,7 +4,7 @@
 🌱 Always learning **something cool** <br>
 👩‍🎓 A student of **Software Engineering at Ecole 42** <br>
 ⚡ Also interested in **Mobile App Development, Blockchain, AI, NFT** <br>
-😄 Pronouns **she/her** <br> 
+😄 Pronouns **she/her** <br> </p>
 
 <p align="left">
 <a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-281e5d?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,7 +23,7 @@
 <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarfranca&layout=compact&langs_count=7&theme=graywhite"/>
 <img height="125em" src="https://github-readme-stats.vercel.app/api?username=carlarfranca&show_icons=true&theme=graywhite&include_all_commits=true count_private=true"/>
 </div>
-<!-- <p align="left"> texto que você quiser </p>
-<p align="lrft">   <img alingn="center" height="15em" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<!--
+<p align="lrft"><img alingn="center" height="13em" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 -->
-</span>
+
