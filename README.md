@@ -23,7 +23,7 @@
 <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlarfranca&layout=compact&langs_count=7&theme=graywhite"/>
 <img height="125em" src="https://github-readme-stats.vercel.app/api?username=carlarfranca&show_icons=true&theme=graywhite&include_all_commits=true count_private=true"/>
 </div>
-<!-- <p align="left"> texto que você quiser </p> -->
+<!-- <p align="left"> texto que você quiser </p>
 <p align="lrft">   <img alingn="center" height="15em" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
-
+-->
 </span>
