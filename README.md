@@ -24,6 +24,6 @@
 <img height="125em" src="https://github-readme-stats.vercel.app/api?username=carlarfranca&show_icons=true&theme=graywhite&include_all_commits=true count_private=true"/>
 </div>
 <!-- <p align="left"> texto que você quiser </p> -->
-<p align="lrft">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="lrft">   <img alingn="center" height="20em" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
 
 </span>
