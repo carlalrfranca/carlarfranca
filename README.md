@@ -8,6 +8,8 @@
 
 <p align="left">
 <a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/Telegram-281e5d?style=for-the-badge&logo=telegram&logoColor=white%22/%3E"/>
+<a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-281e5d?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/ProtonMail-281e5d?style=for-the-badge&logo=protonmail&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/C-281e5d?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-281e5d?style=for-the-badge&logo=java&logoColor=white"/>
@@ -23,7 +25,5 @@
 </div>
 <!--
 <p align="lrft"><img alingn="center" height="13em" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
-<a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-281e5d?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<a href="https://t.me/CarlalFranca"rel="nofollow"><img src="https://img.shields.io/badge/ProtonMail-281e5d?style=for-the-badge&logo=protonmail&logoColor=white"/>
 -->
 
