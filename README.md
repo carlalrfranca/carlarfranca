@@ -1,6 +1,6 @@
 # Hi there, I'm Carla 👋
 <pre>
-🔭 I’m currently working on something new
+🔭 Currently working on something new
 🌱 Always learning something cool
 👩‍🎓 A student of Software Engineering at Ecole 42
 ⚡ Also interested in Mobile Development, Blockchain, AI, NFT6rf
