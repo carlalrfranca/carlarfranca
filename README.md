@@ -3,7 +3,7 @@
 🔭 Currently working on something new
 🌱 Always learning something cool
 👩‍🎓 A student of Software Engineering at Ecole 42
-⚡ Also interested in Mobile Development, Blockchain, AI, NFT6rf
+⚡ Also interested in Mobile Development, Blockchain, AI, NFT
 😄 Pronouns she/her
 <p align="left">
 <img height="23em" src="https://img.shields.io/badge/C-22272e?style=for-the-badge&logo=c&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/Java-22272e?style=for-the-badge&logo=java&logoColor=tomato"/><img height="23em" src="https://img.shields.io/badge/css-22272e?style=for-the-badge&logo=css&logoColor=blue"/><img height="23em" src="https://img.shields.io/badge/Kotlin-22272e?style=for-the-badge&logo=kotlin&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/HTML-22272e?style=for-the-badge&logo=html5&logoColor=ab3f27"/><img height="23em" src="https://img.shields.io/badge/Linux-22272e?style=for-the-badge&logo=linux&logoColor=#22272e"/><img height="23em" src="https://img.shields.io/badge/Shell_Script-22272e?style=for-the-badge&logo=gnu-bash&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/Markdown-22272e?style=for-the-badge&logo=markdown&logoColor=white"/><img height="23em" src="https://img.shields.io/badge/git-22272e?style=for-the-badge&logo=git&logoColor=tomato"/><img height="23em" src="https://img.shields.io/badge/Javascript-22272e?style=for-the-badge&logo=javascript&logoColor=white"/>
