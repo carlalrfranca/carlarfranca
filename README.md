@@ -1,4 +1,4 @@
-# Hi, 👋 I'm Carla
+# Hi, I'm Carla
 <pre>
 
 🔭 Currently working on new tecnology projects.
