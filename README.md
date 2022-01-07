@@ -1,4 +1,4 @@
-# Hi, I'm Carla 
+# Hi  <img height="26em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, I'm Carla 
 <pre>
 
 🔭 Currently working on new tecnology projects.
