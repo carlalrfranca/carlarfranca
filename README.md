@@ -1,7 +1,7 @@
 # Hi  <img height="28em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, I'm Carla 
 <pre>
 
-🔭 Currently working on new tecnology projects.
+🔭 Currently working on new technology projects.
 🧠 Learning Skills : HTML, CSS, JavaScript, TypeScript, Kotlin, C and languages.
 👩‍🎓 A student of Software Engineering at Ecole 42.
 ⚡ Also interested in Mobile Development, Blockchain, AI, NFT.
