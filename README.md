@@ -1,4 +1,4 @@
-<!--# Hi  <img height="28em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, I am Carla -->
+# Hi  <img height="28em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" >, I am Carla
 <pre>
 
 🔭 Currently working on new technology projects.
