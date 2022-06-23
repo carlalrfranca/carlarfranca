@@ -1,4 +1,4 @@
-<!-- #   What's Up <img height="28em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  -->
+
 <!-- souoɯᴉɐpoʞɐʞsoʇuɐdodɐ -->
 <pre>
 
